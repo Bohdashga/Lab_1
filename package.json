@@ -18,5 +18,14 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bohdashga/Lab_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bohdashga/Lab_1/issues"
+  },
+  "homepage": "https://github.com/Bohdashga/Lab_1#readme"
 }

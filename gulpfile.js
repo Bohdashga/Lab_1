@@ -13,7 +13,7 @@ const
 
 //тестове завдання
 gulp.task('hello', function() {
-    console.log('Hello, World!');
+    console.log('My project');
 });
 
 //копіювання HTML файлів в папку dist
