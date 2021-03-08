@@ -10,7 +10,6 @@ const
     concat = require ('gulp-concat'), //об'єднання файлів - конкатенація
     uglify = require ('gulp-uglify'), //мінімізація javascript
     rename = require ('gulp-rename'); //перейменування файлів
-
 //тестове завдання
 gulp.task('hello', function() {
     console.log('My project');
